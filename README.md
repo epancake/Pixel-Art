@@ -5,4 +5,4 @@ https://paintbypixel-e53e4.firebaseapp.com/
 
 A pixel art maker which allows a user to choose colors from a palette and then paint pixel art. Uses vanilla JavaScript with HTML and CSS.
 
-(img/blankCanvas.jpg)
+![canvas](img/blankCanvas.jpg)
